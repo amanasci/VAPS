@@ -12,7 +12,7 @@ This is a project made by Aman Kumar as a part of **CBSE National Science Exhibi
 
 ## Android Application:
 
-> This project was made by me when I was in class 10 hence I was not aware of android development so I used MIT App Inventor 2.
+> This project was made by me when I was in grade 10 hence I was not aware of android development so I used MIT App Inventor 2.
 
 **Hence I can't provide you the source code of android app.**
 
